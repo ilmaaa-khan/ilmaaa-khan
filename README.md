@@ -62,9 +62,9 @@ An AI-powered interview preparation platform with question generation and evalua
 
 ## 🌐 Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
-* Portfolio: Add your portfolio website here
-* Email: Add your professional email here
+* LinkedIn: https://www.linkedin.com/in/ilma-khan-35b104309/
+* Portfolio: file:///Users/illmaaa/Downloads/ilma-portfolio.html
+* Email: ilmakhannn95@gmail.com
 
 ---
 
